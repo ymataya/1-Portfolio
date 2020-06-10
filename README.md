@@ -8,7 +8,7 @@ Created my first website portfolio to showcase the work I've done for my Web Dev
 * CSS
 
 ## Project Preview
-![Preview](/image/portfolio.png)
+![Preview](/images/portfolio.png)
 
 ## Project Link:
 https://ymataya.github.io/1-Portfolio/
