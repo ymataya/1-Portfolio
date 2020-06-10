@@ -1,37 +1,3 @@
-body {
-    font-family: 'Source Sans Pro', sans-serif;
-    background-color: #efe7e4;
-}
-
-.navbar {
-    background-color: #8c797f;
-    color: #efe7e4;
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 20px;
-}
-
-.navbar-brand {
-    font-weight: 600;
-}
-
-.right {
-    float: right;
-}
-
-a {
-    padding-left: 15px;
-    padding-right: 15px;
-    color: #efe7e4;
-}
-
-a:hover {
-    text-decoration: none;
-    color: white;
-    font-size: 18px;
-    cursor: pointer;
-}
-
 h3 {
     margin-top: 5rem;
     margin-left: 3rem;
@@ -44,6 +10,11 @@ form {
     margin-left: 3rem;
     margin-right: 3rem;
 }
+
+.form-control::-webkit-input-placeholder {
+    color: #BEBEBE;
+    opacity: 0.7;
+  }
 
 
 #message {
@@ -71,13 +42,4 @@ form {
 .more {
     margin-bottom: 8rem;
     margin-left: 3rem;
-}
-
-
-footer {
-    background-color: #8c797f;
-    color: #efe7e4;
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 45px;
 }

@@ -1,3 +1,18 @@
 # Portfolio
 
-Created my own website portfolio using the right syntax and in an organized way of coding. I made sure the links worked and was able to redirect viewers from one HTML to another. I also designed it based on my personality and color.
+## Description
+Created my first website portfolio to showcase the work I've done for my Web Development class. My portfolio expresses my personality in a clean and organized way.
+
+## Technologies
+* HTML
+* CSS
+
+## Project Preview
+![Preview](/image/portfolio.png)
+
+## Project Link:
+https://ymataya.github.io/1-Portfolio/
+
+
+
+
